@@ -2,6 +2,8 @@
  * \file voiture.cpp
  * \brief Définition des méthodes de la classe CVoiture
  * \author Alexis Jacquemard
+ * \date 05/10/2026
+ * \version 1.0
  */
 
 #include "voiture.h"
