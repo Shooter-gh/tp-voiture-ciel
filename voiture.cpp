@@ -1,7 +1,7 @@
 /**
  * \file voiture.cpp
  * \brief Définition des méthodes de la classe CVoiture
- * \author Gaëtan Dallencourt
+ * \author Alexis Jacquemard
  */
 
 #include "voiture.h"
